@@ -1,0 +1,27 @@
+.stopWatch {
+    text-align: center;
+    margin: 100px;
+}
+.stopWatch > h1{
+   font-size: 50px;
+}
+
+.stopWatch > button{
+    padding: 12px 24px;
+    margin-right: 12px;
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.start{
+    background-color: green;
+    color: white;
+}
+.pause{
+    background-color: orange;
+}
+.reset{
+    background-color: red;
+    color: white;
+}
